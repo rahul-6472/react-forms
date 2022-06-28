@@ -1,0 +1,53 @@
+form {
+  border: 1px solid #cecece;
+  width: 30vw;
+  padding: 1rem;
+  height: 50vh;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  color: teal;
+}
+
+table {
+  margin: auto;
+  width:80%;
+}
+table,
+thead,
+th,
+td {
+  border: 1px solid #cecece;
+}
+
+label {
+  color: blue;
+}
+.submit {
+  padding: 0.5rem;
+  width: 70%;
+  color: #fff;
+  background: orangered;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  margin-left:4rem;
+  margin-top:1.2rem;
+}
+input{
+    outline:none;
+    border-radius:0.5rem;
+    width:50%;
+    padding:0.5rem;
+    border:1px solid #cecece;
+}
+select{
+    outline:none;
+    border-radius:0.5rem;
+    width:50%;
+    background-color: transparent;
+    padding:0.5rem;
+    border:1px solid #cecece;
+}
